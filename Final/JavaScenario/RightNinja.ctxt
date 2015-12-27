@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RightNinja
+comment0.text=\n\ Write\ a\ description\ of\ class\ RightNinja\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=RightNinja()
+comment2.params=world
+comment2.target=RightNinja(MyWorld)
+comment3.params=
+comment3.target=void\ goToLeftNinjaState()
+numComments=4

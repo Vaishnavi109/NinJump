@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ButtonPlay
+comment0.text=\n\ Write\ a\ description\ of\ class\ ButtonPlay\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ click()
+comment2.params=command
+comment2.target=void\ setCommand(CommandInterface)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

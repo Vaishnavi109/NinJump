@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RightShield
+comment0.text=\n\ Write\ a\ description\ of\ class\ LeftShield\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=c
+comment1.target=RightShield(Component)
+comment2.params=
+comment2.target=Ninja\ changeState()
+comment3.params=ninja
+comment3.target=Ninja\ addShield(Ninja)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ Act\ -\ do\ whatever\ the\ LeftShield\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=5
